@@ -1,18 +1,18 @@
 html {
-  font-family;  Verdana, Helvetica;
+  font-family;  "Verdana", Helvetica;
   background-color: Black;
   text-align: center;
   color: white;
 }
 
-h1 {
-  font-size: 50px;
-  font-weight: normal;
-}
-
 .istore {
   font-size: 16px;
   color: Aquamarine;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
 }
 
 h2 {
